@@ -1,0 +1,1 @@
+cmd_/home/michelle/lab5/dist/kshram/kshram.ko := ld -r -m elf_x86_64 -z noexecstack --build-id=sha1  -T scripts/module.lds -o /home/michelle/lab5/dist/kshram/kshram.ko /home/michelle/lab5/dist/kshram/kshram.o /home/michelle/lab5/dist/kshram/kshram.mod.o;  true

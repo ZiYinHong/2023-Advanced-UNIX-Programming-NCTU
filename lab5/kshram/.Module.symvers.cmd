@@ -1,0 +1,1 @@
+cmd_/home/michelle/lab5/dist/kshram/Module.symvers :=  scripts/mod/modpost       -o /home/michelle/lab5/dist/kshram/Module.symvers -T /home/michelle/lab5/dist/kshram/modules.order -i Module.symvers -e 
