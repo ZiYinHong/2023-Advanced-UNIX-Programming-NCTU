@@ -17,15 +17,13 @@ This lab aims to build a runtime environment required by this course. You have t
 
 1. Download the [docker-compose.yml](https://people.cs.nctu.edu.tw/~chuang/courses/unixprog/resources/ubuntu/docker-compose.yml) and [Dockerfile](https://people.cs.nctu.edu.tw/~chuang/courses/unixprog/resources/ubuntu/Dockerfile) from the course website.
 
-   :::danger
-   ***For Apple Chip Users (M1/M2)***: You have to enable "Use Docker Compose V2" in your Docker Desktop options and use the alternative Dockerfile file [here](https://people.cs.nctu.edu.tw/~chuang/courses/unixprog/resources/ubuntu/m1/Dockerfile).
-   :::
+   > **Warning**
+   > ***For Apple Chip Users (M1/M2)***: You have to enable "Use Docker Compose V2" in your Docker Desktop options and use the alternative Dockerfile file [here](https://people.cs.nctu.edu.tw/~chuang/courses/unixprog/resources/ubuntu/m1/Dockerfile).
 
 1. Build your docker container environment. Ensure that you have correctly set up your username and created the home directory for the user.
 
-   :::danger
-   You must use your own user/group name in the docker instead of the built-in default name.
-   :::
+   > **Warning**
+   > You must use your own user/group name in the docker instead of the built-in default name.
 
 1. Follow the instructions in the introduction slide, compile textbook samples, and run in your container instance. 
 
