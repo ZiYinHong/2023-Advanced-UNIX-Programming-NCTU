@@ -3,7 +3,7 @@ UP23 Lab01
 
 Date: 2023-03-06
 
-[According to LAB1 instruction page](https://md.zoolab.org/IKKdUNHZSgus1h_oLYu7qw?view)
+[According to LAB1 instruction page](https://md.zoolab.org/s/sg1RYjwNt)
 
 # Build course environment
 
