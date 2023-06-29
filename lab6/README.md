@@ -2,7 +2,7 @@ UP23 Lab06
 ==========
 Date: 2023-05-01
 
-[According to LAB6 instruction](https://md.zoolab.org/tq1M38AQTfuBaUyjI1mKvQ?view)
+[According to LAB6 instruction](https://md.zoolab.org/s/dOYP-mdwq)
 
 # Assembly Sort Challenge
 
