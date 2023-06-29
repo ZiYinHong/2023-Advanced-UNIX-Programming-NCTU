@@ -2,7 +2,7 @@ UP23 Lab05
 ==========
 Date: 2023-04-24
 
-[According to LAB5 instruction](https://md.zoolab.org/9E3Nl6zxRVOvO6yjQjqCvg?view)
+[According to LAB5 instruction](https://md.zoolab.org/s/n2iYIHC7z)
 
 # Does Sharing Memories Make Us Feel Closer?
 
