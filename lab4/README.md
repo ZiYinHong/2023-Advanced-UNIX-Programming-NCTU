@@ -2,7 +2,7 @@ UP23 Lab04
 ==========
 Date: 2023-03-27
 
-[According to LAB4 instruction](https://md.zoolab.org/N05pL5IjRHWUrYr9Vi7Ylg?view)
+[According to LAB4 instruction](https://md.zoolab.org/s/Wy4ScHfug)
 
 # Simply Guess the Number
 
