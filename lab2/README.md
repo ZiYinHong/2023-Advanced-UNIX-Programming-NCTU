@@ -2,7 +2,7 @@ UP23 Lab02
 ==========
 Date: 2023-03-13
 
-[According to LAB2 instruction](https://md.zoolab.org/jv6aiMDQQAyNnf4gsB5viQ?view)
+[According to LAB2 instruction](https://md.zoolab.org/s/skITr3rJl)
 
 # Find a Needle in a Haystack
 
